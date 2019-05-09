@@ -15,7 +15,7 @@ avatar = media.Movie("Avatar",
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
 magnolia = media.Movie("Magnolia",
-                        "3h 9m",
+                       "3h 9m",
                        "An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley",
                        "https://m.media-amazon.com/images/M/MV5BZjk3YThkNDktNjZjMS00MTBiLTllNTAtYzkzMTU0N2QwYjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
                        "https://www.youtube.com/watch?v=KnamcFv_N9Q")
