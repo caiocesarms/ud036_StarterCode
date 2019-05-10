@@ -1,7 +1,8 @@
 import media
 import fresh_tomatoes
 
-"""Exemplos de filmes"""
+
+# Exemplos de filmes
 toy_story = media.Movie("Toy Story",
                         "1h 17min",
                         "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
@@ -44,8 +45,8 @@ hunger_games = media.Movie("Hunger Games",
                            "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
                            "https://www.youtube.com/watch?v=mfmrPu43DF8")
 
-"""Lista de filmes"""
+# Lista de filmes
 movies = [toy_story, avatar, magnolia, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
 
-"""Abre um a pagina web com a lista de filmes"""
+# Abre um a pagina web com a lista de filmes
 fresh_tomatoes.open_movies_page(movies)
