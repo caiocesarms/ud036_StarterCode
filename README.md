@@ -5,9 +5,9 @@ Aplicação em Python para exibição de um website de trailers de filmes.
 Python 2.7
 
 ## Executando
-1.Baixe o zip e extraia os arquivos
+1.(a)Baixe o zip e extraia os arquivos,
 ou
-Clone o projeto com o comando:
+(b)Clone o projeto com o comando:
 `git clone https://github.com/caiocesarms/ud036_StarterCode.git`
 
 2.Depois, dentro da pasta obtida use o comando:
